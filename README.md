@@ -1,2 +1,2 @@
 # loja-1
-Aprendendo git e github
+Meu primeiro repositório
